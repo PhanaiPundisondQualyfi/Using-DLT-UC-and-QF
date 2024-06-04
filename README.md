@@ -1,6 +1,5 @@
 # Using Delta Live Tables, Unity Catalog, and Query Federation
 
-## Introduction
 This project demonstrates how to use Delta Live Tables, Unity Catalog, and Query Federation in Databricks to create a star schema.
 Delta Live Tables (DLT) provide an automated, reliable framework for building data pipelines.
 Unity Catalog offers a unified governance solution for managing data and AI assets in Databricks.
@@ -9,12 +8,19 @@ The key components and functionalities of this project includes:
 - Planning Data Model
 - Databricks Setup
 - Query Federation & Modelling
-- Visualisation via Microsoft PowerBI
+- Visualisation via Microsoft PowerBi
 
 ## Planning Data Model
-To ensure a robust design, I used draw.io to plan out the physical data model of the star schema. Based on this model, I then created dummy data and visualized it in Power BI to generate preliminary insights, showcasing what the final solution would roughly look like.
+Create 
 
 ## Databricks Setup
+Cluster configuration
+
+## Query Federation & Modelling
+Create Databricks notebooks to use query federation and model the star schema. Can be viewed in the pipeline folder.
+
+## Visualisation via Microsoft PowerBi
+Connect Databricks to PowerBi using Databricks built-in fuction, partner connect.
 
 
 
