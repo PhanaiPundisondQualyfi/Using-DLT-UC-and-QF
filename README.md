@@ -22,9 +22,13 @@ Configurations:
 
 ## Query Federation & Modelling
 Use Databricks notebook to create python programs for query federation and modelling the star schema. Can be viewed in the pipeline folder.
+
 For Delta Live Tables to work, use DLT decorators.
+
 Create Delta Live Tables using above notebook as Source Code and the standard-catalog.target-schema as Destination.
+
 The Product Edition, Compute and Advanced settings may require adjustments based on your capacity and needs.
+
 Validate Delta Live Tables to locate errors, if any. Then Start Delta Live Tables when successfully validated.
 
 ## Visualisation via Microsoft PowerBi
