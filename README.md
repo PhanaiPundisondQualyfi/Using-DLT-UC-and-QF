@@ -33,7 +33,8 @@ Validate Delta Live Tables to locate errors, if any. Then Start Delta Live Table
 
 ## Visualisation via Microsoft PowerBi
 Connect Databricks to PowerBi using Databricks built-in fuction, partner connect.
-Create insights such as:
+
+Create insights, examples below:
 
 
 
